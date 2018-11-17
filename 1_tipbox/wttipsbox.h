@@ -28,8 +28,6 @@ private slots:
 
 private:
     QTimeLine* m_pTimeLine;
-    QString m_msg;
-    QRect m_rect;
     QWidget* m_pParentWidget;
     bool m_bMouseIn;
 };
