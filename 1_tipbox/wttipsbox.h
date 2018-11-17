@@ -20,12 +20,13 @@ public:
     TipBox(QWidget* pParent);
 
     void ShowMessage(const QString& msg, TipType type = Info);
+    void setTextColor(TipType type);
     void enterEvent(QEvent *event) override;
     void leaveEvent(QEvent *event) override;
+    
 private slots:
     void goTipBox(int value);
-    void setTextColor(TipType type);
-
+    
 private:
     QTimeLine* m_pTimeLine;
     QWidget* m_pParentWidget;
