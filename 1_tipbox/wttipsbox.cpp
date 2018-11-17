@@ -1,9 +1,6 @@
 #include "wttipsbox.h"
-#include <QPainter>
 #include <QTimeLine>
 #include <QWidget>
-#include <QPushButton>
-#include <QHBoxLayout>
 
 TipBox::TipBox(QWidget* pParent):m_pParentWidget(pParent),m_bMouseIn(false)
 {
