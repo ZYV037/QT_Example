@@ -7,6 +7,7 @@ class QTimeLine;
 
 class TipBox: public QLabel
 {
+public:
     enum TipType
     {
         Info,
@@ -16,7 +17,7 @@ class TipBox: public QLabel
     };
 
     Q_OBJECT
-public:
+
     TipBox(QWidget* pParent);
 
     void ShowMessage(const QString& msg, TipType type = Info);
