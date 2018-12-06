@@ -7,6 +7,7 @@ class QTimeLine;
 
 class TipBox: public QLabel
 {
+public:
     enum TipType
     {
         Info,
@@ -16,20 +17,19 @@ class TipBox: public QLabel
     };
 
     Q_OBJECT
-public:
+
     TipBox(QWidget* pParent);
 
     void ShowMessage(const QString& msg, TipType type = Info);
+    void setTextColor(TipType type);
     void enterEvent(QEvent *event) override;
     void leaveEvent(QEvent *event) override;
+    
 private slots:
     void goTipBox(int value);
-    void setTextColor(TipType type);
-
+    
 private:
     QTimeLine* m_pTimeLine;
-    QString m_msg;
-    QRect m_rect;
     QWidget* m_pParentWidget;
     bool m_bMouseIn;
 };
