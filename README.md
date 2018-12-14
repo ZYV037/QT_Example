@@ -8,3 +8,7 @@
   QCombox下拉项添加有关闭按钮   
   Caution: QPushButton has some proble with qss,so I use QToolButton instead.   
   ![image](https://github.com/ZYV037/QT_Example/blob/master/2_qcombox_removeable_item/qcombox_removeable_item.gif)
+
+## 3. QCheckBox center in QTableWidget.
+   QCheckBox在QTableWidget中居中的一种策略。
+  ![image](https://github.com/ZYV037/QT_Example/blob/master/3_qtablewidget_with_center_checkbox/center_checkbox.png)
