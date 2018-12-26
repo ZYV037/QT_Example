@@ -17,3 +17,9 @@
    X轴调整为整数、轴字体设置、QChats的动态化等
    contains qwidgets save as picture file.  
   ![image](https://github.com/ZYV037/QT_Example/blob/master/4_qchart_example/qchart_example.png)
+
+## 5. a bat script qmake/make & msi package
+  bat function, qmake/make cmd, Advanced Installer
+  
+## 6. qt .pro file example
+  Multi thread compile & some common pro config
