@@ -14,5 +14,6 @@
   ![image](https://github.com/ZYV037/QT_Example/blob/master/3_qtablewidget_with_center_checkbox/center_checkbox.png)
 
 ## 4. QCharts example
+   X轴调整为整数、轴字体设置、QChats的动态化等
    contains qwidgets save as picture file.  
   ![image](https://github.com/ZYV037/QT_Example/blob/master/4_qchart_example/qchart_example.png)
