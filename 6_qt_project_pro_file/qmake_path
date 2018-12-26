@@ -1,0 +1,18 @@
+#AaronZhang 461177348@qq.com 20181123
+
+WtgeoProductsDir = $$absolute_path("../../")
+
+CommonDir =     $$WtgeoProductsDir/Common
+WmpsCommon =    $$WtgeoProductsDir/System/WMPS/Common
+CommonUIDir =   $$WtgeoProductsDir/System/WMPS/Common/UI
+DISDir =        $$WtgeoProductsDir/System/WMPS/DIS
+DISUIDir =      $$WtgeoProductsDir/System/WMPS/DIS/UI
+DPSDir =        $$WtgeoProductsDir/System/WMPS/DPS
+DPSUIDir =      $$WtgeoProductsDir/System/WMPS/DPS/UI
+PCSDir =        $$WtgeoProductsDir/System/WMPS/PCS
+PCSUIDir =      $$WtgeoProductsDir/System/WMPS/PCS/UI
+RMSDir =        $$WtgeoProductsDir/System/WMPS/RMS
+RMSUIDir =      $$WtgeoProductsDir/System/WMPS/RMS/UI
+HttpserverDir = $$WtgeoProductsDir/System/WMPS/HttpServer
+DataAcquireDir =$$WtgeoProductsDir/System/WMPS/DataAcquire
+WmpsCmdToolDir =$$WtgeoProductsDir/System/WMPS/Tools/WmpsCmdTool
