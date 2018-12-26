@@ -12,3 +12,7 @@
 ## 3. QCheckBox center in QTableWidget.
    QCheckBox在QTableWidget中居中的一种策略。  
   ![image](https://github.com/ZYV037/QT_Example/blob/master/3_qtablewidget_with_center_checkbox/center_checkbox.png)
+
+## 4. QCharts example
+   contains qwidgets save as picture file.  
+  ![image](https://github.com/ZYV037/QT_Example/blob/master/4_qchart_example/qchart_example.png)
