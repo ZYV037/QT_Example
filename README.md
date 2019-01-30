@@ -23,3 +23,7 @@
   
 ## 6. qt .pro file example
   Multi thread compile & some common pro config
+
+## 7. QTCreator keyboard shortcuts support TortoiseSVN diff by Beyond compare
+  QTCreator快捷键 BeyondCompare 比对当前文件SVN差异
+  ![image](https://github.com/ZYV037/QT_Example/blob/master/7_shortcutkey_diff_by_beyondcompare_in_qtcreator/7_shortcutkey_diff_by_beyondcompare_in_qtcreator.gif)
