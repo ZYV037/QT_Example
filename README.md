@@ -30,4 +30,4 @@
   
 ## 8. QCombox with invalid(enable,unselectable) item
   QCombox use QListWidget as Model/View to enhance QCombox_item QListWidgetItem ability.
-  ![image](https://github.com/ZYV037/QT_Example/blob/master/8_qcombox_with_invalid_item/qcombox_with_invalid_item.png)
+    ![image](https://github.com/ZYV037/QT_Example/blob/master/8_qcombox_with_invalid_item/qcombox_with_invalid_item.png)
