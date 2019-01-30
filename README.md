@@ -28,6 +28,6 @@
   QTCreator快捷键 BeyondCompare 比对当前文件SVN差异
   ![image](https://github.com/ZYV037/QT_Example/blob/master/7_shortcutkey_diff_by_beyondcompare_in_qtcreator/7_shortcutkey_diff_by_beyondcompare_in_qtcreator.gif)
   
-## 8. QCombox with invalid or enable, unselect item
+## 8. QCombox with invalid(enable,unselectable) item
   QCombox use QListWidget as Model/View to enhance QCombox_item QListWidgetItem ability.
   ![image](https://github.com/ZYV037/QT_Example/blob/master/8_qcombox_with_invalid_item/qcombox_with_invalid_item.png)
