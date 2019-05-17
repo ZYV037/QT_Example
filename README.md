@@ -34,4 +34,4 @@
 
 ## 8. Volume Rendering use QCustom3DVolume 3D texture
    The Transfer Color Edit Dialog public QColorDialog
-    ![image](https://github.com/ZYV037/QT_Example/tree/master/9_volume_rendering/volumetric.gif)
+    ![image](https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif)
