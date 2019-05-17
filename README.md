@@ -38,4 +38,4 @@
     ![image](https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif)  
     refer:
     [QT Example volumetric](https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html)  
-    [Invowo](https://inviwo.org/)
+    [Inviwo](https://inviwo.org/)
