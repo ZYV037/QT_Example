@@ -33,6 +33,5 @@
     ![image](https://github.com/ZYV037/QT_Example/blob/master/8_qcombox_with_invalid_item/qcombox_with_invalid_item.png)
 
 ## 8. Volume Rendering use QCustom3DVolume 3D texture
-## The Transfer Color Edit Dialog public QColorDialog   
-    
+   The Transfer Color Edit Dialog public QColorDialog
     ![image](https://github.com/ZYV037/QT_Example/tree/master/9_volume_rendering/volumetric.gif)
