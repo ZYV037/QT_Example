@@ -37,4 +37,4 @@
    色彩编辑框包含数据分布曲线图。色彩点Y轴表示透明度(alpha)。x轴表示点云值。点云值对应颜色为两个色彩点的rgb及alpha均值。  
     ![image](https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif)  
     refer: [QT Example volumetric](https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html)  
-           [Invowo](https://inviwo.org/)
+            [Invowo](https://inviwo.org/)
