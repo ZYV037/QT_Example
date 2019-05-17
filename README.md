@@ -33,8 +33,9 @@
     ![image](https://github.com/ZYV037/QT_Example/blob/master/8_qcombox_with_invalid_item/qcombox_with_invalid_item.png)
 
 ## 8. Volume Rendering use QCustom3DVolume 3D texture/Point Cloud Drawing
-   The Transfer Color Edit Dialog public QColorDialog.The color point Y axis value means alpha. X mean point value. The poinx color was the averange rgb&alpha of it's left colorpoint and right colorpoint.  
+   The Transfer Color Edit Dialog public QColorDialog.The color point Y axis value means alpha. X mean points depth. The point color was the averange rgb&alpha of it's left colorpoint and right colorpoint.  
    色彩编辑框包含数据分布曲线图。色彩点Y轴表示透明度(alpha)。x轴表示点云值。点云值对应颜色为两个色彩点的rgb及alpha均值。  
     ![image](https://github.com/ZYV037/QT_Example/blob/master/9_volume_rendering/volumetric.gif)  
-    refer: [QT Example volumetric](https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html)  
-            [Invowo](https://inviwo.org/)
+    refer:
+    [QT Example volumetric](https://doc.qt.io/qt-5/qtdatavisualization-volumetric-example.html)  
+    [Invowo](https://inviwo.org/)
